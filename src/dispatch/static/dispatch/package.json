@@ -74,7 +74,7 @@
     "swrv": "^1.0.4",
     "vue": "^3.4.12",
     "vue-router": "^4.2.5",
-    "vue3-apexcharts": "^1.4.4",
+    "vue3-apexcharts": "^1.8.0",
     "vue3-markdown-it": "^1.0.10",
     "vuetify": "^3.4.3",
     "vuex": "^4.1.0",
